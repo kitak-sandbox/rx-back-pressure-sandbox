@@ -1,0 +1,23 @@
+{
+  "name": "rx-back-pressure-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kitak-sandbox/rx-back-pressure-sandbox.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kitak-sandbox/rx-back-pressure-sandbox/issues"
+  },
+  "homepage": "https://github.com/kitak-sandbox/rx-back-pressure-sandbox#readme",
+  "dependencies": {
+    "rx-lite": "^4.0.8",
+    "rx-lite-backpressure": "^4.0.8"
+  }
+}
